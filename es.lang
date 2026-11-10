@@ -1392,7 +1392,7 @@ antiquesword=Espada antigua
 bloodclaw=Garra sangrienta
 thecrimsonsky=El cielo carmesí
 causticexecutioner=Verdugo cáustico
-gemstonelongsword=Espadón de gema
+gemstonelongsword=Espada larga de gema
 perfectstorm=La tormenta perfecta
 voidclaw=Garra del vacío
 
@@ -2414,10 +2414,10 @@ ravenlordsetdamage=Daño de las plumas: <damage>
 dawnset=Modifica los ataques cuerpo a cuerpo y a distancia durante el día
 duskset=Modifica los ataques mágicos y de invocación durante la noche
 amethystset=Infliges un 1% más de daño por cada 10 de resiliencia máxima
-amethystbluetext=Daño del "Conjunto de Amatista" aumentado en un <damage>%. Pff, qué débil
-amethystgreentext=Daño del "Conjunto de Amatista" aumentado en un <damage>%. Decente. No tan bueno, pero decente
-amethystpurpletext=Daño del "Conjunto de Amatista" aumentado en un <damage>%. ¡Así debería verse un guerrero!
-amethystorangetext=Daño del "Conjunto de Amatista" aumentado en un <damage>%. ¡Por favor, no me golpees!
+amethystbluetext=El conjunto de amatista aumenta tu daño en un <damage>%. Pff, qué débil
+amethystgreentext=El conjunto de amatista aumenta tu daño en un <damage>%. Decente. No tan bueno, pero decente
+amethystpurpletext=El conjunto de amatista aumenta tu daño en un <damage>%. ¡Así debería verse un guerrero!
+amethystorangetext=El conjunto de amatista aumenta tu daño en un <damage>%. ¡Por favor, no me golpees!
 rubysetnew=Aumenta el número máximo de invocaciones en 1 por cada 150 de resiliencia máxima
 rubybluetext=+<summoncount> invocación adicional del "Conjunto de Rubí". Pff, números de novato
 rubygreentext=+<summoncount> invocación adicional del "Conjunto de Rubí". Nada mal
@@ -2445,7 +2445,7 @@ makeshiftmeleeset=Pulsa [input=setability] para gastar una acumulación de Retoq
 makeshiftrangedset=Pulsa [input=setability] para gastar una acumulación de Retoque Rápido y colocar una torreta temporal que dispara a los enemigos cercanos
 makeshiftmagicset=Pulsa [input=setability] para gastar una acumulación de Retoque Rápido y colocar una torreta de arco temporal que electrocuta a los enemigos cercanos y a otras torretas de arco
 makeshiftsummonset1=Pulsa [input=setability] para gastar todas tus acumulaciones de Retoque Rápido, invocando un compañero robot por un tiempo corto
-makeshiftsummonset2=El compañero robot se hace más fuerte con cada acumulación de Retoque Rápido (Máximo de 5) y gasta automáticamente las acumulaciones conseguidas mientras está activo
+makeshiftsummonset2=El compañero robot se hace más fuerte por cada acumulación de Retoque Rápido gastada (máximo de 5) y consume al instante las nuevas acumulaciones
 supportersetwarning=Solo puede ser equipado por los propietarios del DLC de paquete de apoyo a Necesse
 supporterset=Gracias por apoyar a Necesse <3
 stealthbaskettip=¡Quédate completamente inmóvil durante 2 segundos para volverte invisible!
@@ -2556,7 +2556,7 @@ essenceofrebirthtip=Añade un 50% de probabilidad de obtener esencia de vida adi
 spiritboardtip=Los ataques aplican 1 acumulación adicional de "Atormentado por la dríada"
 guardianbracelettip=Aumenta enormemente el daño y la velocidad de movimiento durante un breve período después de bloquear perfectamente un ataque
 secondwindcharmtip1=Aumenta los impulsos acumulados en 1
-secondwindcharmtip2=Si recibes un golpe durante el enfriamiento del impulso, este se rellena instantáneamente
+secondwindcharmtip2=Si recibes un golpe mientras se recarga el impulso, podrás volver a usarlo al instante
 summonersbestiarytip=Obtienes un 5% más de daño de invocación por cada invocación diferente que tengas
 spiritgreavestip=Ganas 5 de resiliencia cada vez que realizas un impulso con un accesorio
 cavelingsfoottip=Aumenta la velocidad de movimiento un 1% por cada 1% de salud faltante
@@ -3026,7 +3026,7 @@ fromnecesseost=De la banda sonora de Necesse compuesta por RRBE
 fromlegacymusic=De la banda sonora antigua
 recalltip=Te teletransporta al punto de reaparición
 homeportaltip=Crea un portal al punto de reaparición
-homeportalcleartip=Pulsa [input=mouse2] para limpiar los portales generados
+homeportalcleartip=Pulsa [input=mouse2] para eliminar los portales generados
 stinkflasktip=Te cubre con un aroma que atrae a los enemigos
 enchantingscrollequipmenttip=Se usa para encantar objetos de equipamiento con <enchantment>
 enchantingscrollmeleetip=Se usa para encantar armas cuerpo a cuerpo con <enchantment>
@@ -3135,10 +3135,10 @@ cabbageseedammotip=La pistola de semillas regenera vida al golpear enemigos
 tomatoseedammotip=La pistola de semillas regenera vida al golpear enemigos
 potatoseedammotip=La pistola de semillas regenera vida al golpear enemigos
 sunflowerseedammotip=La pistola de semillas regenera vida al golpear enemigos
-eggplantseedammotip=La pistola de semillas es más veloz y llega más lejos
-onionseedammotip=La pistola de semillas es más veloz y llega más lejos
-sugarbeetseedammotip=La pistola de semillas es más veloz y llega más lejos
-beetseedammotip=La pistola de semillas es más veloz y llega más lejos
+eggplantseedammotip=Los proyectiles de la pistola de semillas tienen más velocidad y alcance
+onionseedammotip=Los proyectiles de la pistola de semillas tienen más velocidad y alcance
+sugarbeetseedammotip=Los proyectiles de la pistola de semillas tienen más velocidad y alcance
+beetseedammotip=Los proyectiles de la pistola de semillas tienen más velocidad y alcance
 cornseedammotip=La pistola de semillas otorga mayor ganancia de resiliencia
 wheatseedammotip=La pistola de semillas otorga mayor ganancia de resiliencia
 pumpkinseedammotip=La pistola de semillas inflige más empuje
