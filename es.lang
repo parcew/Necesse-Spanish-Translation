@@ -3206,7 +3206,7 @@ consumable=Consumibles
 rawfood=Comida cruda
 commonfish=Peces comunes
 food=Comida
-ingredient=Ingrediente
+ingredient=Ingredientes
 potions=Pociones
 resourcepotions=Curación y maná
 greaterbuffpotions=Mejoras de combate grandes
@@ -3961,7 +3961,7 @@ farmertalk4=Necesito que alguien se haga cargo de la granja cuando sea mayor
 gunsmithtalk1=Recuerda practicar antes de salir a cazar
 gunsmithtalk2=Las armas no matan a las personas, las personas matan a otras personas
 gunsmithtalk3=¡Tengo algunas de las armas más mortíferas de la ciudad!
-gunsmithtalk4=Juro que no hay nada malo con estos productos
+gunsmithtalk4=Juro que estos productos no tienen nada de malo
 gunsmithspecial1=¡No le vendas tus lingotes a <blacksmith>! ¡Los está usando mal!
 gunsmithspecial2=¡<hunter> está mal de la cabeza! ¡Las armas de fuego son lo mejor!
 
@@ -3994,7 +3994,7 @@ stylisttalk2=¡Hacer crecer tu cabello no es un superpoder!
 stylisttalk3=¿Buscas impresionar a alguien?
 stylisttalk4=¡Unos jeans nuevos a veces resuelven todos tus problemas!
 stylisttalk5=¡También trabajo los fines de semana!
-stylisttalk6=¡Mi tienda seguramente te impresionará!
+stylisttalk6=¡Seguro que mi tienda te impresiona!
 stylisttalk7=¿Necesitas un nuevo corte de cabello, o simplemente quieres comprar una camisa?
 stylistspecial=¡No puedo creer que <angler> haya elegido ese estilo!
 
@@ -4677,9 +4677,9 @@ scrapyard2=<attacker> recicló a <victim>
 scrapyard3=<attacker> desguazó a <victim> para obtener piezas
 scrapyard4=<attacker> aplastó a <victim> como si fuera una lata
 scrapyard5=<attacker> tiró a <victim> a la basura
-bee1=<attacker> picó a <victim>
-bee2=<victim> fue traicionABEJADO por <attacker>
-bee3=A <victim> no le hizo ZUMBAR de alegría su encuentro con <attacker>
+bee1=Una <attacker> picó a <victim>
+bee2=<victim> fue traicionABEJADO por una <attacker>
+bee3=A <victim> no le hizo ZUMBAR de alegría su encuentro con una <attacker>
 
 [tech]
 all=Todo
@@ -5384,7 +5384,7 @@ aspiringhero_itemgivenchat=¡Esto sí que es un trabajo artesanal de calidad, <n
 aspiringhero_giveitemtip1=¿Todavía no tienes mi espada, <name>?
 aspiringhero_giveitemtip2=Puedes fabricar <item> en <workstation>. ¡Date prisa!
 
-aspiringhero_itemgiven1=¡A <item> le aguarda la grandeza!
+aspiringhero_itemgiven1=¡<item>! ¡Le aguarda la grandeza!
 aspiringhero_itemgiven2=¡Lo presiento!
 aspiringhero_itemgiven3=Oye... ¿<name>? ¡Se me acaba de ocurrir la más grandiosa de las ideas!
 aspiringhero_itemgiven4=¡Voy a necesitar un escudero para mis aventuras! ¿Y quién mejor que tú?
@@ -5498,17 +5498,17 @@ aspiringhero2_completekilledmobchat3=Ya sabes, solos tú y yo... :heart:
 // Aspirante a héroe - actividad 5: visitar bioma (final)
 aspiringhero_visitbiome1=¡<name>! ¡Justo a quien quería ver! :heart:
 aspiringhero_visitbiome2=Los héroes como nosotros también merecen relajarse de vez en cuando, así que ¿qué te parece si hoy nos vamos de pícnic?
-aspiringhero_visitbiome3=Vamos a <location> a buscar un buen sitio **cerca del agua**
+aspiringhero_visitbiome3=Vamos al bioma de <location> a buscar un buen sitio **cerca del agua**
 aspiringhero_visitbiome4=Y trae algo para sentarnos; con un **Banco** bastará
 
 aspiringhero_acceptvisitbiomebutton=Relajarme contigo suena al día perfecto, <settlername>
 aspiringhero_declinevisitbiomebutton=¿Quizá más tarde?
 
 aspiringhero_visitbiomeacceptedchat1=¡Espléndido, <name>! :heart:
-aspiringhero_visitbiomeacceptedchat2=¡Rumbo a <location>!
+aspiringhero_visitbiomeacceptedchat2=¡Rumbo al bioma de <location>!
 aspiringhero_visitbiomeacceptedchat3=Recuerda traer algo para sentarnos, <name>: unas **Sillas** o un **Banco**
 
-aspiringhero_visitbiometip1=La belleza de <location> nos espera, <name>
+aspiringhero_visitbiometip1=La belleza del bioma de <location> nos espera, <name>
 aspiringhero_visitbiometip2=Busquemos un buen sitio **cerca del agua**, donde podamos sentarnos y relajarnos juntos en un banco o algo así
 
 aspiringhero_visitbiomelocationfound1=¡<name>! ¡Aquí mismo! Las vistas, los árboles... ¡esto es perfecto!
@@ -5608,13 +5608,13 @@ aspiringhero_giftfood3=Al fin y al cabo, un buen caballero debe alimentar a su e
 aspiringhero_giftfoodaccept=¡Delicioso! Gracias, mi caballero :heart:
 
 aspiringhero_giftpotion1=Los enemigos de ahí fuera son feroces, <name>
-aspiringhero_giftpotion2=Y aunque sé que sabes defenderte, <item> de más no te vendrá mal
+aspiringhero_giftpotion2=Y aunque sé que sabes defenderte, una <item> de más no te vendrá mal
 aspiringhero_giftpotion3=Toma y ten cuidado ahí fuera, mi escudero :heart:
 aspiringhero_giftpotionaccept=Pensaré en ti cuando me lo beba, <settlername> :heart:
 
 aspiringhero_giftsword1=Hace mucho tiempo me fabricaste una espada magnífica, <name>
 aspiringhero_giftsword2=Y pensé que ya era hora de devolverte el favor
-aspiringhero_giftsword3=<item> es para ti. Que te mantenga a salvo :heart:
+aspiringhero_giftsword3=Esto es para ti: <item>. Que te mantenga a salvo :heart:
 aspiringhero_giftswordaccept=La guardaré como un tesoro para siempre, <settlername>
 
 // PERSONALIDAD ROMÁNTICA: CALLADO Y COMPASIVO
@@ -5923,7 +5923,7 @@ wealthisall2_giveitem5=Sé un encanto y encárgate de ello, ¿sí? :heart:
 wealthisall2_acceptgiveitembutton=¡<item>! ¿Te gustan, <settlername>?
 wealthisall2_declinegiveitembutton=¡Voy por mi pico!
 
-SAME_TRANSLATION:wealthisall2_giveitemtip1=<item> <name>...
+wealthisall2_giveitemtip1=<item>, <name>...
 wealthisall2_giveitemtip2=Si no tienes lo que te pedí, ¿entonces qué haces aquí?
 wealthisall2_giveitemtip3=Ve a buscar en <location>
 
@@ -5954,7 +5954,7 @@ wealthisall3_giveitemtip3=¡Manos a la obra!
 
 wealthisall3_itemgivenchat=¡Mmm! ¡Me veo increíble con esto! :heart:
 
-wealthisall3_itemgiven1=Tengo que decirlo, ¡<item> me queda de lujo! :heart:
+wealthisall3_itemgiven1=Tengo que decirlo, ¡qué bien me queda <item>! :heart:
 wealthisall3_itemgiven2=Creía que a estas alturas ya te habrías desanimado, <name>...
 wealthisall3_itemgiven3=Pero sigues trayéndome todo lo que te pido
 wealthisall3_itemgiven4=Tiene que haber un límite, ¿verdad, <name>?
@@ -5999,11 +5999,11 @@ wealthisall_visitbiome5=¿Te apetece, <name>? :heart:
 wealthisall_acceptvisitbiomebutton=Siempre, <settlername> :heart:
 wealthisall_declinevisitbiomebutton=Ahora no puedo, <settlername>
 
-wealthisall_visitbiomeacceptedchat1=Vamos a <location>, <name>
+wealthisall_visitbiomeacceptedchat1=Vamos al bioma de <location>, <name>
 wealthisall_visitbiomeacceptedchat2=A algún sitio acogedor, **cerca del agua**, donde nadie nos moleste :heart:
 wealthisall_visitbiomeacceptedchat3=Y quizá trae algo para sentarnos. Un **Banco** o unas **Sillas** servirán
 
-wealthisall_visitbiometip1=Vamos a <location>, <name>
+wealthisall_visitbiometip1=Vamos al bioma de <location>, <name>
 wealthisall_visitbiometip2=A algún sitio acogedor, **cerca del agua**, donde nadie nos moleste :heart:
 wealthisall_visitbiometip3=Y quizá trae algo para sentarnos. Un **Banco** o unas **Sillas** servirán
 
@@ -6167,7 +6167,7 @@ listeningtomusic=Escuchando música
 chatting=Hablando con <target>
 relaxing=Relajándose en <target>
 jogging=Trotando
-usingcollector=Usando <item> por <personality>
+usingcollector=Usando <item> (<personality>)
 downed=Derribado
 
 [ui]
