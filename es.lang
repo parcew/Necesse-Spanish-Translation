@@ -188,8 +188,8 @@ raspberrysapling=Retoño de arbusto de frambuesas
 blackberrybush=Arbusto de moras
 blackberrysapling=Retoño de arbusto de moras
 
-// Estaciones de trabajo
-workstation=Estación de trabajo
+// Estaciones de fabricación
+workstation=Mesa de trabajo
 forge=Forja
 carpentersbench=Mesa de carpintería
 tungstencarpentersbench=Mesa de carpintería de tungsteno
@@ -198,14 +198,14 @@ landscapingstation=Estación de paisajismo
 tungstenlandscapingstation=Estación de paisajismo de tungsteno
 fallenlandscapingstation=Estación de paisajismo corrupta
 ironanvil=Yunque de hierro
-demonicworkstation=Estación de trabajo demoníaca
+demonicworkstation=Mesa de trabajo demoníaca
 demonicanvil=Yunque demoníaco
 alchemytable=Mesa de alquimia
-tungstenworkstation=Estación de trabajo de tungsteno
+tungstenworkstation=Mesa de trabajo de tungsteno
 tungstenanvil=Yunque de tungsteno
 voidalchemytable=Mesa de alquimia del vacío
 caveglowalchemytable=Mesa de alquimia resplandeciente
-fallenworkstation=Estación de trabajo corrupta
+fallenworkstation=Mesa de trabajo corrupta
 fallenanvil=Yunque corrupto
 fallenalchemytable=Mesa de alquimia corrupta
 
@@ -405,7 +405,7 @@ paintinglargeabstract=Pintura abstracta grande
 paintingelder=Pintura del sabio
 paintingcooljonas=Pintura genial
 paintingposter=Póster feliz
-paintinglargeflatgrass=Pintura grande de césped plano
+paintinglargeflatgrass=Pintura grande de Flatgrass
 
 // Estatuas
 mossymonkstatue=Estatua de monje cubierta de musgo
@@ -2462,10 +2462,10 @@ amethystgreentext=El conjunto de amatista aumenta tu daño en un <damage>%. Dece
 amethystpurpletext=El conjunto de amatista aumenta tu daño en un <damage>%. ¡Así debería verse un guerrero!
 amethystorangetext=El conjunto de amatista aumenta tu daño en un <damage>%. ¡Por favor, no me golpees!
 rubysetnew=Aumenta el número máximo de invocaciones en 1 por cada 150 de resiliencia máxima
-rubybluetext=+<summoncount> invocación adicional del conjunto de rubí. Pff, números de novato
-rubygreentext=+<summoncount> invocación adicional del conjunto de rubí. Nada mal
-rubypurpletext=+<summoncount> invocación adicional del conjunto de rubí. ¡Ahora empieza lo bueno!
-rubyorangetext=+<summoncount> invocación adicional del conjunto de rubí. Deja ya de presumir
+rubybluetext=Invocaciones adicionales del conjunto de rubí: +<summoncount>. Pff, cifras de novato
+rubygreentext=Invocaciones adicionales del conjunto de rubí: +<summoncount>. Nada mal
+rubypurpletext=Invocaciones adicionales del conjunto de rubí: +<summoncount>. ¡Ahora empieza lo bueno!
+rubyorangetext=Invocaciones adicionales del conjunto de rubí: +<summoncount>. Deja ya de presumir
 sapphireset=Pulsa [input=setability] para aumentar la obtención de resiliencia en un 250% durante 5 segundos
 emeraldset=Infliges un 50% más de daño mágico, pero también recibes un 25% más de daño
 newarcanicset1=Pulsa [input=setability] para entrar en sobrecarga
@@ -2480,13 +2480,13 @@ arachnidset=Invoca una araña adicional por cada tres espacios de invocación us
 soulseedset=Pulsa [input=setability] para hacer explotar todas tus invocaciones activas e infligir un daño enorme
 demonicset=Pulsa [input=setability] para sacrificar un 10% de tu vida y aumentar temporalmente tu daño, críticos y velocidad de movimiento
 soldierhelmetset=Obtienes una bonificación acumulable de frenesí al matar a un enemigo\nEl frenesí aumenta la velocidad de ataque y de movimiento
-soldiercapset=Al matar, los proyectiles de las armas a distancia rebotan hacia otro objetivo
+soldiercapset=Al matar a un enemigo, los proyectiles de las armas a distancia rebotan hacia otros enemigos
 thiefset1=Obtienes una probabilidad de robar monedas al golpear a un enemigo
 thiefset2=Pulsa [input=setability] para lanzar un puñado de monedas a los enemigos
 makeshiftset=Causar o recibir daño puede otorgarte acumulaciones de Retoque rápido
 makeshiftmeleeset=Pulsa [input=setability] para gastar una acumulación de Retoque rápido e impulsarte hacia adelante, dañando a los enemigos en tu camino
 makeshiftrangedset=Pulsa [input=setability] para gastar una acumulación de Retoque rápido y colocar una torreta temporal que dispara a los enemigos cercanos
-makeshiftmagicset=Pulsa [input=setability] para gastar una acumulación de Retoque rápido y colocar una torreta de arco temporal que electrocuta a los enemigos cercanos y a otras torretas de arco
+makeshiftmagicset=Pulsa [input=setability] para gastar una acumulación de Retoque rápido y colocar una torreta de arco temporal que lanza descargas a los enemigos cercanos y a otras torretas de arco
 makeshiftsummonset1=Pulsa [input=setability] para gastar todas tus acumulaciones de Retoque rápido, invocando un compañero robot por un tiempo corto
 makeshiftsummonset2=El compañero robot se hace más fuerte por cada acumulación de Retoque rápido gastada (máximo de 5) y consume al instante las nuevas acumulaciones
 supportersetwarning=Solo puede ser equipado por los propietarios del DLC de paquete de apoyo a Necesse
@@ -2700,7 +2700,7 @@ sapphirestafftip2=[input=mouse2] Consume <value> de esencia de vida para invocar
 sapphirestafftip3=Jugadores y colonos serán curados si permanecen dentro del glifo de zafiro al activarse
 sapphirestaffdeathessencetip1=[input=mouse1] Los proyectiles rebotan hacia los enemigos cercanos y generan esencia de muerte al impactar
 sapphirestaffdeathessencetip2=[input=mouse2] Consume <value> de esencia de muerte para invocar un glifo de zafiro mortal en el suelo
-sapphirestaffdeathessencetip3=Los enemigos que permanezcan dentro del glifo de zafiro mortal recibirán <hitnumber> de daño y <debuffnumber> de daño adicional durante <duration> segundos
+sapphirestaffdeathessencetip3=Los enemigos que permanezcan dentro del glifo de zafiro mortal recibirán <hitnumber> de daño y <debuffnumber> de daño adicional repartido en <duration> segundos
 amethyststafftip1=[input=mouse1] Dispara <value> veloces rayos que generan esencia de vida al impactar
 amethyststafftip2=[input=mouse2] Consume <value> de esencia de vida para invocar un glifo de amatista en el suelo
 amethyststafftip3=Jugadores y colonos recibirán una bonificación de velocidad de movimiento si permanecen dentro del glifo de amatista al activarse
@@ -2791,7 +2791,7 @@ venomshowertip1=Rocía veneno a tu objetivo
 venomshowertip2=Inflige más daño cuanto más cerca esté el objetivo
 venomburstertip=Acumula fases con el tiempo mientras canalizas un amplio chorro de veneno que se vuelve más pequeño pero más potente con cada fase
 venombursterblasttip=[input=mouse2] Consume todas las fases para provocar una explosión venenosa cuyo tamaño y daño aumentan con cada fase consumida
-venombursterfallofftip=Inflige más daño a los objetivos más cercanos
+venombursterfallofftip=Inflige más daño cuanto más cerca esté el objetivo
 bowofdualismtip=Dispara 2 proyectiles a la vez
 bowofunitytip1=Dispara 2 flechas unidas por un rayo que inflige daño
 bowofunitytip2=Cada vez que el rayo alcanza a un enemigo, su daño disminuye
@@ -3326,7 +3326,7 @@ terrain=Terreno
 objects=Objetos
 seeds=Semillas
 saplings=Árboles y retoños
-craftingstations=Estaciones de trabajo
+craftingstations=Estaciones de fabricación
 furniture=Muebles
 
 oak=Roble
@@ -4125,7 +4125,7 @@ piratetalk3=¿Ya encontraste algún tesoro?
 piratetalk4=He perdido mi candado, ¿lo tienes tú?
 piratetalk5=¡Mi pólvora es la mejor que jamás encontrarás!
 piratetalk6=No me gustaba el estilo de vida pirata de todos modos
-piratespecial1=¡Gracias por no hacerme caminar por la plancha!
+piratespecial1=¡Gracias por no hacerme caminar por el tablón!
 piratespecial2=¡Espero no haberte hecho daño antes!
 
 stylisttalk1=¿Dicen que parezco un personaje de dibujos animados?
@@ -4194,7 +4194,7 @@ stealthbasketangry5=¡El manual decía que esto era indetectable!
 stealthbasketangry6=¡Funcionó con los guardias del sector B!
 stealthbasketangry7=Tuviste suerte. ¡La próxima vez no me encontrarás!
 stealthbasketangry8=No le cuentes esto a nadie. Tengo una reputación
-stealthbasketangry9=¡El que se esconde y huye, vive para luchar otro día!
+stealthbasketangry9=¡El que se esconde y huye vive para luchar otro día!
 stealthbasketangry10=Muahahaha, no me encontrarás la próxima vez
 
 friendlyjonastalk1=Hola, soy Jonas. ¡Desarrollador de Necesse!
@@ -4220,7 +4220,7 @@ friendlyjonasdies=¡NOOOOOOOOOOOOOOOOOOOOOOOOOOO!
 
 // Colonos hostiles
 pirateattack1=¡AL ATAAAQUE!
-pirateattack2=¡Entrega tu ron y camina por la plancha!
+pirateattack2=¡Entrega tu ron y camina por el tablón!
 pirateattack3=¡Mi pólvora acabará contigo en un abrir y cerrar de ojos!
 pirateattack4=¡Alto! ¡Tenemos a un enemigo a la vista!
 pirateattack5=¡Destaparemos una botella de ron cuando acabemos contigo!
@@ -4524,7 +4524,7 @@ genericattackspeeddebuff=Atacas más lento
 
 [bufftooltip]
 canceltip=Cancelar
-nomodifiers=§9Esta bonificación no otorga modificadores
+nomodifiers=§9Este efecto de estado no otorga modificadores
 teleportsicknesstip=No puedes teletransportarte de nuevo
 settlementflagtip=Aparición de criaturas reducida considerablemente
 campfiretip1=Aparición de criaturas reducida
@@ -4721,7 +4721,7 @@ thorns2=<attacker> pinchó a <victim> hasta la muerte
 arrowtrapname=Una trampa de flechas
 flametrapname=Una trampa de llamas
 flametrap1=<attacker> asó a <victim>
-flametrap2=<attacker> calcinó a <victim>
+flametrap2=<attacker> cocinó a <victim> a la parrilla
 voidtraipname=trampa del vacío
 voidtrap1=<victim> olvidó poner un espejo delante de una <attacker>
 voidtrap2=Una <attacker> deslumbró a <victim>
@@ -4743,12 +4743,12 @@ zombie3=Un <attacker> se comió el cuerpo de <victim>
 stabbybush1=Un <attacker> apuñaló a <victim> repetidas veces hasta que ya no fueron necesarias más puñaladas.
 stabbybush2=Un <attacker> apuñaló DEMASIADAS VECES a <victim>
 stabbybush3=Apuesto a que no viste venir a ese <attacker>, ¿eh, <victim>?
-bashybush1=Un <attacker> BONKEÓ a <victim>
+bashybush1=Un <attacker> le dio un PORRAZO a <victim>
 bashybush2=Un <attacker> le dio una paliza a <victim>
 bashybush3=Cuando el <attacker> hace PUM PUM PUM, <victim> MUERE MUERE MUERE
 mummy1=Una <attacker> envolvió a <victim>
 mummy2=Una <attacker> fue demasiado aterradora para <victim>
-mummy3=Una <attacker> fue fatalmente buena para <victim>
+mummy3=Lamentablemente, una <attacker> fue demasiado para <victim>
 skeleton1=Un <attacker> destrozó a <victim>
 skeleton2=Un <attacker> fue demasiado aterrador para <victim>
 skeleton3=Un <attacker> fue demasiado difícil para <victim>
@@ -4791,7 +4791,7 @@ cavespider1=Una <attacker> destrozó a <victim>
 cavespider2=Una <attacker> clavó sus enormes colmillos en <victim>
 cavespider3=Una <attacker> devoró a <victim> aún con vida
 fishian1=Un <attacker> resultó ser un pez más grande que <victim>
-fishian2=Un <attacker> pescó a <victim>
+fishian2=Un <attacker> hizo que <victim> mordiera el anzuelo
 fishian3=<victim> fue pan comido para un <attacker>
 fishian4=<victim> fue como un pez fuera del agua contra un <attacker>
 mosquito1=Un <attacker> mató a <victim> a picaduras
@@ -4859,7 +4859,7 @@ scrapyard3=<attacker> desguazó a <victim> para obtener piezas
 scrapyard4=<attacker> aplastó a <victim> como si fuera una lata
 scrapyard5=<attacker> tiró a <victim> a la basura
 bee1=Una <attacker> picó a <victim>
-bee2=<victim> fue traicionABEJADO por una <attacker>
+bee2=Una <attacker> le clavó el aguijón a <victim> por la espalda
 bee3=A <victim> no le hizo ZUMBAR de alegría su encuentro con una <attacker>
 siphon1=<attacker> absorbió a <victim>
 siphon2=<attacker> desintegró a <victim>
@@ -4947,9 +4947,9 @@ home_alone=Solo en casa
 home_alone_desc=Mata a un saqueador con una trampa
 crystallized=Cristalizado
 crystallized_desc=Alcanza el potencial completo del conjunto de rubí o de amatista
-you_and_what_army=¿Tú y cuántos más?
+you_and_what_army=¿Tú y qué ejército?
 you_and_what_army_new_desc=Ten a 10 colonos en tu grupo de aventura equipados con una armadura completa y un arma, todo de Nivel 5 o superior
-me_and_this_army=¡Mis soldados y yo!
+me_and_this_army=¡Este ejército y yo!
 me_and_this_army_desc=Derrota a un jefe de incursión solo con daño de los colonos
 have_40_perks=¡Eso es un montón de polvo!
 have_40_perks_desc=Ten 40 mejoras activas simultáneamente en un mismo altar corrupto
@@ -5090,9 +5090,9 @@ nopreferedwalls=Mi habitación no tiene paredes de <type>
 somepreferedwalls=Mi habitación tiene algunas paredes de <type>
 fullpreferedwalls=Mi habitación tiene solo paredes de <type>
 maker=Artesano
-maker_desc=<name> siempre está fabricando algo. Recibirá una bonificación de felicidad cuando tenga muchas estaciones de trabajo distintas en su habitación
-nomakerstations=Mi habitación no tiene estaciones de trabajo
-somemakerstations=Mi habitación tiene algunas estaciones de trabajo
+maker_desc=<name> siempre está fabricando algo. Recibirá una bonificación de felicidad cuando tenga muchas estaciones de fabricación distintas en su habitación
+nomakerstations=Mi habitación no tiene estaciones de fabricación
+somemakerstations=Mi habitación tiene algunas estaciones de fabricación
 beachlover=Amante de la playa
 beachlover_desc=Vivir cerca del agua le da tranquilidad a <name>. Recibirá una bonificación de felicidad cuando su habitación esté cerca del agua
 roomnotnearwater=Mi habitación no está cerca del agua
@@ -5251,7 +5251,7 @@ bodyguard=Guardaespaldas
 bodyguard_desc=<name> tiene un instinto protector. Se pondrá en peligro para proteger a sus amigos. Cuando un colono cercano esté a punto de recibir un golpe, podrá interponerse con una probabilidad del <chance> para recibirlo en su lugar y sufrirá menos daño. Tanto esa probabilidad como la reducción de daño aumentan un <percent> por cada nivel de calidad de vida
 bodyguard_effect=<chance> de probabilidad de recibir un golpe en lugar de un colono cercano
 mastercrafter=Maestro artesano
-mastercrafter_desc=<name> ha fabricado tantos objetos que podría hacerlo incluso mientras duerme. En las estaciones de trabajo, podrá fabricar simultáneamente un objeto adicional por cada nivel de calidad de vida, en el mismo tiempo que tarda en fabricar uno
+mastercrafter_desc=<name> ha fabricado tantos objetos que podría hacerlo incluso mientras duerme. En las estaciones de fabricación, podrá fabricar simultáneamente un objeto adicional por cada nivel de calidad de vida, en el mismo tiempo que tarda en fabricar uno
 mastercrafter_effect=Objetos fabricados a la vez: <value>
 comedian=Comediante
 comedian_desc=<name> siempre tiene un chiste preparado. Los colonos con los que hable también recibirán recreación entretenida en una cantidad equivalente al <base> de una actividad de recreación normal. Esta cantidad aumentará un <percent> por cada nivel de calidad de vida. Con un nivel de calidad de vida <quality> o superior, todos los que estén a su alrededor también recibirán un <crowd> de esa cantidad mientras hable
@@ -5352,7 +5352,7 @@ settlerromanceanimalkeeperdialogue2=Ayer vi cómo un gallo furioso perseguía a 
 settlerromancestylistdialogue1=Sabes, <name>... Tu estilo no está mal. Pero ¿has visto a <partner>? ¡Eso sí que es tener encanto y estilo! :heart:
 settlerromancestylistdialogue2=¿Te gusta este atuendo, <name>? A <partner> le gusta este atuendo... :heart:
 settlerromancepiratedialogue1=¡Arrr! ¡El mejor botín que he conseguido en mi vida es <partner>! ¡No tiene precio, ¿sabes?! :heart:
-settlerromancepiratedialogue2=<partner> me preguntó si me gustaba su nuevo atuendo. Le dije que quizá necesitaría un segundo parche para el ojo. No le hizo ninguna gracia
+settlerromancepiratedialogue2=<partner> me preguntó si me gustaba su nuevo atuendo. Le dije que quizá necesitaría un parche para el otro ojo. No le hizo ninguna gracia
 settlerromanceguarddialogue1=<partner> dice que a veces exagero un poco. ¡Solo porque acabaría con Sage, Grit o cualquier otro enemigo que pudiera hacerle daño a mi amor! :heart:
 settlerromanceguarddialogue2=A veces <partner> pasa a traerme una taza de café caliente mientras estoy de guardia... :heart:
 
@@ -5404,7 +5404,7 @@ honestfarmer1_completeobjectplacedchat2=Así que en un par de días eso se conve
 // Granjero honesto - actividad 2: colocar objeto
 honestfarmer2_placeobject1=¡Muy buenas, <name>! :heart:
 honestfarmer2_placeobject2=Me preguntaba si podrías echarme una mano otra vez
-honestfarmer2_placeobject3=Cuando crecía en la granja de mi tierra, ¡mi papá siempre quiso tener <object>!
+honestfarmer2_placeobject3=En la granja donde pasé mi infancia, ¡mi papá siempre quiso tener <object>!
 honestfarmer2_placeobject4=¿Qué me dices, <name>? ¿Crees que podemos hacer realidad aquel viejo sueño?
 
 honestfarmer2_acceptplaceobjectbutton=¡Manos a la obra, <settlername>!
@@ -5639,7 +5639,7 @@ aspiringhero_declineddatingchat=¡Tú te lo pierdes!
 // Aspirante a héroe - actividad 1: entregar objeto
 aspiringhero_giveitem1=Si me lo permites, <name>... :heart:
 aspiringhero_giveitem2=En toda mi vida no he sido más que un apuesto <settlerclass>. ¡Pero en mi corazón siempre he soñado con ser mucho más!
-aspiringhero_giveitem3=Pero antes de poder forjar mi legado, necesito que me fabriques una espada exquisita con la que forjarlo
+aspiringhero_giveitem3=Pero antes de grabar mi nombre en la historia, necesito que me fabriques una espada exquisita con la que grabarlo
 aspiringhero_giveitem4=Con <item> bastará. ¿No estás de acuerdo?
 
 aspiringhero_acceptgiveitembutton=¡Mira esto! ¡<item>!
@@ -5753,7 +5753,7 @@ aspiringhero2_mobkilledchat=¡Lo hemos conseguido, <name>! ¡Lo hemos conseguido
 aspiringhero2_mobkilled1=Creía que era imposible...
 aspiringhero2_mobkilled2=¡Pero nos enfrentamos de verdad a <mob> y regresamos con la victoria!
 aspiringhero2_mobkilled3=¡Todo el asentamiento cantará canciones sobre el Caballero <settlername> y el Escudero <name>!
-aspiringhero2_mobkilled4=Sabía que nunca te rendirías conmigo, <name>... :heart:
+aspiringhero2_mobkilled4=Sabía que nunca dejarías de creer en mí, <name>... :heart:
 
 aspiringhero2_completekilledmobbutton=Y yo siempre supe que serías capaz, mi caballero :heart:
 
@@ -6003,7 +6003,7 @@ quietcompassionate_visitbiometip3=Y estaría genial que trajeras un **Banco** o 
 quietcompassionate_visitbiomelocationfound1=<name>, aquí mismo está bien :heart:
 quietcompassionate_visitbiomelocationfound2=Coloca algo donde podamos sentarnos y te lo contaré todo
 
-quietcompassionate_visitbiomesittingdownchat1=A <friendname> le encantaba este lugar...
+quietcompassionate_visitbiomesittingdownchat1=A <friendname>, con quien tenía una buena amistad, le encantaba este lugar...
 quietcompassionate_visitbiomesittingdownchat2=Las adorables liebres de las nieves, je, lanzarnos bolas de nieve...
 quietcompassionate_visitbiomesittingdownchat3=Y las luciérnagas... :heart:
 
@@ -6271,7 +6271,7 @@ wealthisall_visitbiomeacceptedchat3=Y podrías traer algo para sentarnos. Un **B
 
 wealthisall_visitbiometip1=Vamos al bioma de <location>, <name>
 wealthisall_visitbiometip2=A algún sitio acogedor, **cerca del agua**, donde nadie nos moleste :heart:
-wealthisall_visitbiometip3=Y quizá trae algo para sentarnos. Un **Banco** o unas **Sillas** servirán
+wealthisall_visitbiometip3=Y podrías traer algo para sentarnos. Un **Banco** o unas **Sillas** servirán
 
 wealthisall_visitbiomelocationfound1=Creo que aquí se está bien, <name>, ¿no te parece?
 wealthisall_visitbiomelocationfound2=¿Has traído algo para sentarnos? ¿Un **Banco** o unas **Sillas**?
@@ -6381,7 +6381,7 @@ jobrange=Alcance de trabajo: <range> casillas
 haulingname=Acarreo
 haulingtip=Mueve y recoge objetos
 craftingname=Fabricación
-craftingtip=Fabrica objetos siguiendo recetas en las estaciones de trabajo
+craftingtip=Fabrica objetos en estaciones de fabricación
 forestryname=Silvicultura
 forestrytip=Tala y planta árboles en zonas forestales
 husbandryname=Ganadería
@@ -6439,7 +6439,7 @@ reading=Leyendo
 cloudwatching=Mirando las nubes
 kiteflying=Volando una cometa
 practicingondummy=Practicando con un maniquí
-pebblethrowing=Lanzando piedritas
+pebblethrowing=Haciendo rebotar piedras
 raindancing=Bailando bajo la lluvia
 napping=Echando una siesta
 pettinganimal=Acariciando a <target>
@@ -7010,7 +7010,7 @@ eldertip15=Si el juego te parece demasiado fácil o demasiado difícil, siempre 
 elderhelpbutton=Explícame algo
 elderpicktopic=¿Sobre qué tema te gustaría saber?
 eldercrafting=Fabricación
-eldercraftingtip=Todos los objetos con la etiqueta "Material de fabricación" se usan en alguna receta.\nUsa el apartado de fabricación de tu inventario para recetas sencillas.\nLas mesas de trabajo, como la estación de trabajo y el yunque, se pueden usar para fabricaciones más avanzadas.\nUsa el filtro de fabricación de tu inventario para buscar recetas específicas.\n\nColoca un material de fabricación en la ranura de abajo para ver las recetas posibles.
+eldercraftingtip=Todos los objetos con la etiqueta "Material de fabricación" se usan en alguna receta.\nUsa el apartado de fabricación de tu inventario para recetas sencillas.\nPara fabricar objetos más avanzados, utiliza estaciones de fabricación como la "Mesa de trabajo" o el yunque.\nUsa el filtro de fabricación de tu inventario para buscar recetas específicas.\n\nColoca un material de fabricación en la ranura de abajo para ver las recetas posibles.
 eldertrading=Comercio
 eldertradingtipnew=Te encontrarás con comerciantes en las aldeas mientras exploras.\nTienen objetos aleatorios de su profesión que podrían querer comprar o vender.\nLos comerciantes de una misma profesión pueden tener distintos objetos y precios.\nPuedes iniciar un asentamiento para tener siempre cerca a comerciantes específicos.
 elderobjects=Objetos
@@ -7324,7 +7324,7 @@ settlementremovestorage=Quitar almacenamiento
 settlementconfigurestorage=Configurar almacenamiento
 settlementaddworkstation=Añadir estación
 settlementassignworkstation=Asignar estación
-settlementworkstationtip=Los colonos usarán las estaciones de trabajo para elaborar recetas
+settlementworkstationtip=Los colonos fabrican objetos en las estaciones asignadas
 settlementremoveworkstation=Quitar estación
 settlementconfigureworkstation=Configurar estación
 settlementcannotworkstation=No se puede asignar como estación
@@ -8162,7 +8162,7 @@ enablebannerofwar=La guerra nunca cambia
 cratesdropaltardust=Hay espacio para un poco más...
 mobsexplodeupgradeshards=Supongo que... ¿se comió los fragmentos?
 essenceveinscanspawn=¡ESTÁ EN LAS PAREDES!
-biggerarena=¿No están entretenidos?
+biggerarena=¿No se divierten?
 allbannerbuffs=¡Todas las bonificaciones!
 
 // Descripciones de las mejoras de incursión
@@ -8199,7 +8199,7 @@ petsrewarddesc1=Las tabletas obtenidas en tus incursiones pueden dar mascotas co
 petsrewarddesc2=¡Incluidas algunas mascotas nuevas y exclusivas de las incursiones!
 morecoinsrewarddesc=Las tabletas obtenidas en tus incursiones tienen más probabilidades de dar monedas como recompensa
 uniqueenchantsrewarddesc=Las tabletas obtenidas en tus incursiones ahora pueden incluir un pergamino de encantamiento único como recompensa
-doubletabletchancedropdesc=Las tabletas obtenidas en tus incursiones pueden soltar una tableta adicional
+doubletabletchancedropdesc=Al caer una tableta en una de tus incursiones, hay una probabilidad de que caiga una tableta adicional
 chancetominefullclusterdesc=Al minar fragmentos de alquimia y mejora tienes una probabilidad de destruir toda la veta de un solo golpe
 alchemyshardsdroppotionsdesc=Minar fragmentos de alquimia puede dar como recompensa una poción grande aleatoria
 fivetimesmorecoinschancedesc=Las tabletas que otorgan monedas como recompensa tienen una baja probabilidad de soltar 5 veces más monedas
@@ -8349,7 +8349,7 @@ equipsettlerquartz=[item=quartzchestplate] Equipa a uno de tus colonos con un co
 findcavelingoasis=[mob=sandstonecaveling] Encuentra el oasis chaneque
 lootdeepdeserttrinket=[item=scryingmirror] Encuentra y recoge un accesorio en las cuevas profundas del desierto
 oneshotskeleton=[mob=ancientskeleton] Mata a un esqueleto de un solo golpe en las cuevas del desierto
-findtemplebiome=[mob=sageandgrit] Encuentra un camino hacia más abajo...
+findtemplebiome=[mob=sageandgrit] Encuentra cómo bajar aún más...
 findsecretpainting=[item=paintingelder] Encuentra la pintura secreta y róbala
 defeatoldnemesis=[mob=fallenwizard] Derrota a tu antiguo némesis
 craftfallenaltar=[item=fallenaltar] Fabrica un "Altar corrupto"
